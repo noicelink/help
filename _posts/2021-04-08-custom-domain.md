@@ -4,7 +4,7 @@ title: "Custom domains"
 description: "FAQ about custom domains"
 date: 2021-04-08 09:02:48 -0100
 categories: faq custom domains
-by: "noice.link"
+by: "macedonga"
 icon: "link-2"
 questions:
   - question: "How do I use a custom domain with noice.link?"
