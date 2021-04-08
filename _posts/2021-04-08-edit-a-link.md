@@ -3,7 +3,7 @@ layout: post
 title: "How can I edit a link?"
 description: "FAQ with editing shortened links"
 date: 2021-04-08 09:20:48 -0100
-categories: start blog
+categories: faq edit links
 by: "macedonga"
 icon: "edit"
 questions:
